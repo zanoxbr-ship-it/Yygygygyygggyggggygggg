@@ -1,7 +1,7 @@
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Workspace = game:GetService("Workspace")
 
-print("https://discord.gg/BZGnKwwmk")
+print("https://discord.gg/Xe5UuhDDBX Best Sourcers ")
 
 local BrainrotCard = require(ReplicatedStorage.Shared.BrainrotCard)
 local OverheadController = require(ReplicatedStorage.Controllers.AnimalOverheadController)
